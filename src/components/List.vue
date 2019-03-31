@@ -83,7 +83,10 @@ export default {
 <style lang='less' scoped>
 .list {
   width: 600px;
-  margin: 20px auto;
+  position: relative;
+  top: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
   border-radius: 10px;
   box-shadow: 0 0 5px #ccc;
   box-sizing: border-box;
