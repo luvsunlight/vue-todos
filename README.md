@@ -13,6 +13,8 @@
 
 ![](https://github.com/luvsunlight/vue-todos/blob/master/screenshots/1.png)
 
+![](https://github.com/luvsunlight/vue-todos/blob/master/screenshots/2.png)
+
 ## Build Setup
 
 ``` bash
@@ -33,5 +35,6 @@ npm run build --report
 
 * 列表的动画效果 bug fix
 * <s>localStorage</s>
+* 移动端符号会变小的bug
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
