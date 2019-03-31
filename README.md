@@ -11,7 +11,7 @@
 * localStorage
 * mockjs(模拟后端数据)
 
-![](https://github.com/luvsunlight/vue-todos/blob/master/screenshot/1.png)
+![](https://github.com/luvsunlight/vue-todos/blob/master/screenshots/1.png)
 
 ## Build Setup
 
