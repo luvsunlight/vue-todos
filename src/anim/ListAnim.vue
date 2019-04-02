@@ -18,8 +18,8 @@ ul {
   transform: translateY(30px);
 }
 .list-anim-leave-to {
-  opacity: 0;
-  /* transform: translateX(-30px); */
+  opacity: 0; 
+  transform: translateX(-30px);
 }
 .list-anim-enter-active,
 .list-anim-leave-active {

@@ -16,8 +16,8 @@
       </div>
       <Anim>
         <Todo
-          v-for="(todo,index) in sortedTodos"
-          :key="index"
+          v-for="todo in sortedTodos"
+          :key="todo.id"
           :id="todo.id"
           :content="todo.content"
           :checked="todo.checked"

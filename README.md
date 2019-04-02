@@ -33,7 +33,7 @@ npm run build --report
 
 ## Todo
 
-* 列表的动画效果 bug fix
+* <s>列表的动画效果 bug fix</s>
 * <s>localStorage</s>
 * 移动端符号会变小的bug
 
